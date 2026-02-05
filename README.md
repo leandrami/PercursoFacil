@@ -40,13 +40,14 @@ A apresentação contempla:
 
 > Abaixo estão as imagens que compõem a apresentação do Documento de Arquitetura de Software.
 
-![Capa](presentation/01-capa.png)
-![Visão Geral](presentation/02-visao-geral.png)
-![Objetivos](presentation/03-objetivos.png)
-![Requisitos](presentation/04-requisitos.png)
-![Arquitetura](presentation/05-arquitetura.png)
-![Fluxos](presentation/06-fluxos.png)
-![Conclusão](presentation/07-conclusao.png)
+![Capa](presentation/DAS-1.png)
+![Requisitos](presentation/DAS-2.png)
+![DiagramaCasosDeUso](presentation/0DAS-3.png)
+![Telas](presentation/DAS-4.png)
+![DiagramaDeClasses](presentation/DAS-5.png)
+![DiagramadeSequência](presentation/DAS-6.png)
+![Qualidade](presentation/DAS-7.png)
+![Agradecimentos](presentation/DAS-8.png)
 
 ---
 
