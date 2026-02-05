@@ -61,5 +61,11 @@ A apresentação contempla:
 
 ## 👩‍💻 Autoria
 
-Projeto desenvolvido por **Leandra Michely**  
-Design Gráfico | UX Design
+Projeto desenvolvido por 
+**Alberto Pereira**
+**Ericson Nascimento**
+**Leandra Michely**  
+**Niedja Rocha**
+
+
+
