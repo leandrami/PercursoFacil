@@ -42,7 +42,7 @@ A apresentação contempla:
 
 ![Capa](presentation/DAS-1.png)
 ![Requisitos](presentation/DAS-2.png)
-![DiagramaCasosDeUso](presentation/0DAS-3.png)
+![DiagramaCasosDeUso](presentation/DAS-3.png)
 ![Telas](presentation/DAS-4.png)
 ![DiagramaDeClasses](presentation/DAS-5.png)
 ![DiagramadeSequência](presentation/DAS-6.png)
