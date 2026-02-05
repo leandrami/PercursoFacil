@@ -62,10 +62,10 @@ A apresentação contempla:
 ## 👩‍💻 Autoria
 
 Projeto desenvolvido por 
-**Alberto Pereira**
-**Ericson Nascimento**
-**Leandra Michely**  
-**Niedja Rocha**
+- **Alberto Pereira**
+- **Ericson Nascimento**
+- **Leandra Michely**  
+- **Niedja Rocha**
 
 
 
